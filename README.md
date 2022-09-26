@@ -15,8 +15,6 @@ The right picture is an imitation of Spotify's UI using SwiftUI.
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="./assets/spotify-clone.png" style="width:30%">
 </div>
-<<<<<<< HEAD
-=======
 
 ## icon
 <a href="https://www.flaticon.com/free-icons/notification" title="notification icons">Notification icons created by ghufronagustian - Flaticon</a>
@@ -36,4 +34,3 @@ The right picture is an imitation of Spotify's UI using SwiftUI.
 <a href="https://www.flaticon.com/free-icons/computer" title="computer icons">Computer icons created by Freepik - Flaticon</a>
 
 <a href="https://www.flaticon.com/free-icons/signal" title="signal icons">Signal icons created by Karacis - Flaticon</a>
->>>>>>> 3be3424 (docs: icon source)
