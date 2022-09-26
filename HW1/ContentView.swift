@@ -229,7 +229,7 @@ struct ContentView: View {
             VStack{
                 Spacer()
                 VStack{}.frame(width: 390, height: 180)
-                    .background(LinearGradient(gradient: Gradient(colors: [Color(uiColor: UIColor(red: 0, green: 0, blue: 0, alpha: 1.0)), Color(uiColor: UIColor(red: 0, green: 0, blue: 0, alpha: 0.8)),Color(uiColor: UIColor(red: 0, green: 0, blue: 0, alpha: 0.0))]), startPoint: .bottom, endPoint: .top))
+                    .background(LinearGradient(gradient: Gradient(colors: [Color(uiColor: UIColor(red: 18/256, green: 18/256, blue: 18/256, alpha: 1.0)), Color(uiColor: UIColor(red: 18/256, green: 18/256, blue: 18/256, alpha: 0.9)),Color(uiColor: UIColor(red: 18/256, green: 18/256, blue: 18/256, alpha: 0.0))]), startPoint: .bottom, endPoint: .top))
             }
             
             VStack{
