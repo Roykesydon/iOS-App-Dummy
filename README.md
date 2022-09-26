@@ -9,7 +9,7 @@ The left picture is a screenshot of Spotify. <br/>
 The right picture is an imitation of Spotify's UI using SwiftUI.
 
 <div>
-    <img src="./assets/origin.jpg" style="width:30vw">
+    <img src="./assets/origin.jpg" style="width:30%">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="./assets/spotify-clone.png" style="width:30vw">
+    <img src="./assets/spotify-clone.png" style="width:30%">
 </div>
